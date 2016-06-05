@@ -1,0 +1,47 @@
+/*
+Theme Name: artecoser
+Template Theme URI: https://artecoser.com/ 
+Author: Reon soluciones web
+Description: Plantilla desarrollada para el sitio de artecoser.com". 
+Version: 1.0 
+*/
+html {
+	font-family: sans-serif;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+
+body {
+	margin: 0 auto;
+    max-width: 1200px;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+menu,
+nav,
+section,
+summary {
+	display: block;
+}
+.menu{
+    background-color: #ed1111; 
+    border-radius: 1em;
+}
+body nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline-block;
+    padding: 1em;
+    
+}
+nav a{
+    color: #fff;
+    text-decoration: none;
+}
